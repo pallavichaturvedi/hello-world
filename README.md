@@ -15,7 +15,7 @@ You are currently viewing your project's **README** file. **_README_** files are
 [Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
 
 ## Your first website
-![Home Buyer Persona](Gantt chart (1).xlsx)
+![](Gantt chart (1).xlsx)
 
 ![]()
 
